@@ -118,7 +118,7 @@ For questions, issues, or suggestions:
 
 - Streamlit community for excellent documentation
 - Plotly for amazing visualization tools
-- All contributors who have helped improve this project
+  
 
 ---
 
